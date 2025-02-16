@@ -5,7 +5,7 @@ Query by Humming (QBH) is a music information retrieval system that allows users
 
 ---
 #### **System Architecture**
-The QBH system consists of the following components:
+
 1. **Audio Input**: The user hums or sings a melody, which is recorded as an audio file.
 2. **Feature Extraction**: Extract features like MFCC, Chroma, Spectral Contrast, and Tempo from the audio.
 3. **Database**: A collection of songs with pre-extracted features.
